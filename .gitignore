@@ -1,0 +1,10 @@
+node_modules/
+vendor/
+.env
+venv/
+__pycache__/
+build/
+dist/
+.cache/
+.idea/
+.vscode/
